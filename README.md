@@ -5,7 +5,7 @@
 A local-first Android gallery for your photos, videos, albums, and more with a clean and customizable interface, powerful media browsing, and convenient tools to manage your collection.
 
 <p>
-  <a href="https://github.com/hashierholmes/Hashiry-Gallery/releases/latest"><strong>⬇ Download latest release</strong></a>
+  <a href="https://github.com/hashierholmes/Hashiry-Gallery/releases/latest"><strong>Download latest release</strong></a>
   · <a href="https://github.com/hashierholmes/Hashiry-Gallery/issues">Report a bug</a>
   · <a href="https://github.com/hashierholmes/Hashiry-Gallery/issues">Request a feature</a>
 </p>
@@ -137,6 +137,6 @@ Hashiry is released under the [MIT License](LICENSE), subject to the applicable 
 
 **Made with 🩷 for Android.**
 
-[⬆ Back to top](#hashiry-gallery)
+[Back to top](#hashiry-gallery)
 
 </div>
