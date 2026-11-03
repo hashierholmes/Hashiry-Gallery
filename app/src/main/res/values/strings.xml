@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hashiry Gallery</string>
+    <string name="launcher_name_hashiry">Hashiry</string>
+    <string name="launcher_name_gallery">Gallery</string>
+
+</resources>
