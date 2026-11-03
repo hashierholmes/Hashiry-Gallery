@@ -334,7 +334,7 @@ fun SettingsScreen(
                                 color = palette.accent,
                                 fontSize = 13.sp,
                                 fontWeight = FontWeight.Medium,
-                                modifier = Modifier.fillMaxWidth().simpleClickable(onClick = { openLink("https://github.com/hashieholmes/Hashiry-Gallery") }).padding(vertical = 4.dp)
+                                modifier = Modifier.fillMaxWidth().simpleClickable(onClick = { openLink("https://github.com/hashierholmes/Hashiry-Gallery") }).padding(vertical = 4.dp)
                             )
                         }
                     }
